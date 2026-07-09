@@ -1,13 +1,12 @@
+<img src="./assets/harshit_banner.png" alt="Harshit Shrimali Banner" width="100%" />
 <div align="center">
-
-# Hi 👋, I'm Harshit Shrimali
+<h1># Hi, I'm Harshit Shrimali</h1>
 
 ### Backend Developer • Python Enthusiast • AI & GenAI Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Flask+%7C+Django+%7C+FastAPI;Building+Scalable+REST+APIs;Learning+LLMs+%7C+RAG+%7C+Agentic+AI;Always+Learning+Something+New" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](http://in.linkedin.com/in/harshitshrimali01)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:harshitshrimali0001@gmail.com)
 
 </div>
